@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>1</id>
+    <name>mermaid</name>
+    <description>half female human, half fish</description>
+  </row>
+  <row>
+    <id>2</id>
+    <name>sea horse</name>
+    <description>a horse like creature in the sea</description>
+  </row>
+  <row>
+    <id>3</id>
+    <name>halberd</name>
+    <description>a pointy weapon</description>
+  </row>
+</root>

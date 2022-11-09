@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>1</id>
+    <product_id>2</product_id>
+    <employee_id>3</employee_id>
+  </row>
+  <row>
+    <id>2</id>
+    <product_id>2</product_id>
+    <employee_id>1</employee_id>
+  </row>
+  <row>
+    <id>3</id>
+    <product_id>1</product_id>
+    <employee_id>2</employee_id>
+  </row>
+</root>

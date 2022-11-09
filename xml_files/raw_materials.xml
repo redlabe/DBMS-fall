@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>1</id>
+    <name>cloth</name>
+    <product_id>3</product_id>
+  </row>
+  <row>
+    <id>2</id>
+    <name>colors</name>
+    <product_id>1</product_id>
+  </row>
+  <row>
+    <id>3</id>
+    <name>stickers</name>
+    <product_id>2</product_id>
+  </row>
+</root>
