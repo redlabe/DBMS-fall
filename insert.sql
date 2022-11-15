@@ -1,0 +1,5 @@
+LOAD DATA LOCAL INFILE 'C:\\Users\\srisa\\OneDrive\\Desktop\\manish\product.csv' INTO TABLE product FIELDS TERMINATED BY ',' LINES TERMINATED BY '\r\n' IGNORE 1 LINES;
+LOAD DATA LOCAL INFILE 'C:\\Users\\srisa\\OneDrive\\Desktop\\manish\\sales.csv' INTO TABLE sales FIELDS TERMINATED BY ',' LINES TERMINATED BY '\r\n' IGNORE 1 LINES;
+LOAD DATA LOCAL INFILE 'C:\\Users\\srisa\\OneDrive\\Desktop\\manish\\raw_materials.csv' INTO TABLE raw_material FIELDS TERMINATED BY ',' LINES TERMINATED BY '\r\n' IGNORE 1 LINES;
+LOAD DATA LOCAL INFILE 'C:\\Users\\srisa\\OneDrive\\Desktop\\manish\\Employee.csv' INTO TABLE employee FIELDS TERMINATED BY ',' LINES TERMINATED BY '\r\n' IGNORE 1 LINES;
+LOAD DATA LOCAL INFILE 'C:\\Users\\srisa\\OneDrive\\Desktop\\manish\\Team.csv' INTO TABLE team FIELDS TERMINATED BY ',' LINES TERMINATED BY '\r\n' IGNORE 1 LINES;
